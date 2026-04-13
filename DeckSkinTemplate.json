@@ -1,0 +1,13 @@
+{
+	"id": "UltrakillFaceCards",
+	"name": "ULTRAKILL Face Cards",
+	"author": ["JBOSS_64"],
+	"description": "ULTRAKILL themed face cards for any suit",
+	"prefix": "UltrakillFaceCards",
+	"badge_colour": "fc8048",
+	"dependencies": [
+		"Steamodded (>=1.0.0~ALPHA-1404b)"
+	],
+	"main_file": "DeckSkinTemplate.lua",
+	"version": "1.0.0"
+}
