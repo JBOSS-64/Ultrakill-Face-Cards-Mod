@@ -1,6 +1,19 @@
 # ULTRAKILL Face Cards for Balatro
-![Image of face cards (Spades)](images/Ultrakill_Face_Cards_Showcase.jpg)
+A simple mod that adds custom ULTRAKILL face cards for each suit
 
-A simple mod that adds custom ULTRAKILL face cards for the spades suit
+I made this because I havent played any of the games from the spades suit's Friends of Jimbo custom face cards, and I wanted to have something other than the default face cards
 
-Art commisioned from [Scootn101](https://steamcommunity.com/profiles/76561199583549835)
+![Image of face cards (Spades)](images/spades.jpg)
+![Image of face cards (Hearts)](images/hearts.jpg)
+![Image of face cards (Clubs)](images/clubs.jpg)
+![Image of face cards (Diamonds)](images/diamonds.jpg)
+
+## Installation
+1. Install [Steamodded](https://github.com/Steamodded/smods?tab=readme-ov-file)
+2. Unzip the file and drag the folder into your mods folder
+3. You now have the ULTRAKILL face cards available in the customize deck menu
+
+## Credits
+- ULTRAKILL characters belong to Arsi "Hakita" Patala / New Blood Interactive
+- Face card art commissioned from [Scootn101](https://steamcommunity.com/profiles/76561199583549835)
+- Built using the [Steamodded DeckSkin template](https://github.com/Steamodded/examples/tree/master/Mods/DeckSkinTemplate)
