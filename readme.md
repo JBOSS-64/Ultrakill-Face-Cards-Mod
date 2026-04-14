@@ -1,5 +1,5 @@
 # ULTRAKILL Face Cards for Balatro
-![Image of face cards](images/Ultrakill_Face_Cards_Showcase.jpg)
+![Image of face cards (Spades)](images/Ultrakill_Face_Cards_Showcase.jpg)
 
 A simple mod that adds custom ULTRAKILL face cards for the spades suit
 
