@@ -10,10 +10,11 @@ I made this because I havent played any of the games from the spades suit's Frie
 
 ## Installation
 1. Install [Steamodded](https://github.com/Steamodded/smods?tab=readme-ov-file)
-2. Unzip the file and drag the folder into your mods folder
-3. You now have the ULTRAKILL face cards available in the customize deck menu
+2. Download the mod from the code button and download zip
+3. Unzip the file and drag the folder into your mods folder
+4. You now have the ULTRAKILL face cards available in the customize deck menu
 
 ## Credits
 - ULTRAKILL characters belong to Arsi "Hakita" Patala / New Blood Interactive
-- Face card art commissioned from [Scootn101](https://steamcommunity.com/profiles/76561199583549835)
+- Face card art commissioned from [Scoot'n101](https://steamcommunity.com/profiles/76561199583549835)
 - Built using the [Steamodded DeckSkin template](https://github.com/Steamodded/examples/tree/master/Mods/DeckSkinTemplate)
